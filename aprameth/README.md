@@ -28,4 +28,3 @@ Run the script
 ```
 npm run solution
 ```
-
